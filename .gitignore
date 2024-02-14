@@ -1,1 +1,5 @@
+*.pem
+
+# Terraform
+.terraform*
 .terraform
